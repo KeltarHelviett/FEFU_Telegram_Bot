@@ -1,0 +1,16 @@
+[[source]]
+
+name = "pypi"
+verify_ssl = true
+url = "https://pypi.python.org/simple"
+
+
+[packages]
+
+pylint = "==1.7.4"
+python-telegram-bot = "==8.1.1"
+pygresql = "==5.0.4"
+
+
+[dev-packages]
+
